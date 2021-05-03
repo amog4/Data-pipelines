@@ -26,14 +26,14 @@ def get_data(file_content):
             pytrends.build_payload(kw_list=[search],timeframe=f"{start_date} {end_date}",geo='IN')
             df = pytrends.interest_over_time().reset_index()
             df.drop(labels=['isPartial'],axis=1,inplace=True)
-            final_dict = pd.concat([final_dict , df ],ignore_index=True) 
+            final_dict = pd.concat([final_dict , df ],axis=1) 
             related_topic = pytrends.related_topics()[search]['rising'].reset_index()
-            related_topic_df = pd.concat([related_topic,related_topic_df],ignore_index=True) 
+            related_topic_df = pd.concat([related_topic,related_topic_df],ignore_index=True,axis=1) 
         except Exception as error:
             print(error)
 
     if related_topic_df.empty: pass
-
+  
     final_dict.to_csv(f'..//..//output/final_df_{today}.csv',index=False)
     related_topic_df.to_csv(f'..//..//output/related_topic_df_{today}.csv',index=False)
 
