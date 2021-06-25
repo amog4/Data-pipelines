@@ -1,1 +1,0 @@
-Create a pipeline to get data from google trend every 6 days
