@@ -1,0 +1,442 @@
+project,article,granularity,timestamp,access,agent,views,week_ending_date,show
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061400,mobile-web,user,384,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061500,mobile-web,user,289,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061600,mobile-web,user,254,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061700,mobile-web,user,308,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061800,mobile-web,user,266,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061900,mobile-web,user,260,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021062000,mobile-web,user,286,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061400,desktop,user,172,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061500,desktop,user,143,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061600,desktop,user,130,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061700,desktop,user,172,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061800,desktop,user,136,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061900,desktop,user,129,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021062000,desktop,user,114,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061400,mobile-app,user,14,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061500,mobile-app,user,15,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061600,mobile-app,user,19,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061700,mobile-app,user,24,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061800,mobile-app,user,14,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021061900,mobile-app,user,16,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Adventures_of_Ozzie_and_Harriet,daily,2021062000,mobile-app,user,17,2021-06-20,The Adventures of Ozzie and Harriet
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061400,mobile-web,user,26,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061500,mobile-web,user,29,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061600,mobile-web,user,37,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061700,mobile-web,user,33,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061800,mobile-web,user,44,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061900,mobile-web,user,26,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021062000,mobile-web,user,34,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061400,desktop,user,44,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061500,desktop,user,23,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061600,desktop,user,26,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061700,desktop,user,32,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061800,desktop,user,21,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061900,desktop,user,20,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021062000,desktop,user,20,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061400,mobile-app,user,1,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061500,mobile-app,user,1,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061600,mobile-app,user,1,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061700,mobile-app,user,1,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061800,mobile-app,user,4,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021061900,mobile-app,user,3,2021-06-20,The Baby-Sitters Club
+en.wikipedia,The_Baby-Sitters_Club_(1990_TV_series),daily,2021062000,mobile-app,user,2,2021-06-20,The Baby-Sitters Club
+en.wikipedia,Boy_Meets_World,daily,2021061400,mobile-web,user,1525,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061500,mobile-web,user,1234,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061600,mobile-web,user,1387,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061700,mobile-web,user,2485,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061800,mobile-web,user,1601,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061900,mobile-web,user,1438,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021062000,mobile-web,user,1447,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061400,desktop,user,774,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061500,desktop,user,654,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061600,desktop,user,596,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061700,desktop,user,997,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061800,desktop,user,708,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061900,desktop,user,546,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021062000,desktop,user,507,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061400,mobile-app,user,79,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061500,mobile-app,user,44,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061600,mobile-app,user,59,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061700,mobile-app,user,117,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061800,mobile-app,user,65,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021061900,mobile-app,user,105,2021-06-20,Boy Meets World
+en.wikipedia,Boy_Meets_World,daily,2021062000,mobile-app,user,80,2021-06-20,Boy Meets World
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061400,mobile-web,user,152,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061500,mobile-web,user,162,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061600,mobile-web,user,143,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061700,mobile-web,user,159,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061800,mobile-web,user,161,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061900,mobile-web,user,151,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021062000,mobile-web,user,156,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061400,desktop,user,45,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061500,desktop,user,34,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061600,desktop,user,43,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061700,desktop,user,51,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061800,desktop,user,41,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061900,desktop,user,58,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021062000,desktop,user,27,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061400,mobile-app,user,7,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061500,mobile-app,user,1,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061600,mobile-app,user,3,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061700,mobile-app,user,10,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061800,mobile-app,user,7,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021061900,mobile-app,user,11,2021-06-20,Brotherly Love
+en.wikipedia,Brotherly_Love_(1995_TV_series),daily,2021062000,mobile-app,user,11,2021-06-20,Brotherly Love
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061400,mobile-web,user,606,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061500,mobile-web,user,515,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061600,mobile-web,user,503,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061700,mobile-web,user,525,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061800,mobile-web,user,561,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061900,mobile-web,user,660,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021062000,mobile-web,user,1026,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061400,desktop,user,338,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061500,desktop,user,410,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061600,desktop,user,352,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061700,desktop,user,278,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061800,desktop,user,277,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061900,desktop,user,186,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021062000,desktop,user,285,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061400,mobile-app,user,27,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061500,mobile-app,user,19,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061600,mobile-app,user,28,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061700,mobile-app,user,24,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061800,mobile-app,user,35,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021061900,mobile-app,user,45,2021-06-20,Dinosaurs
+en.wikipedia,Dinosaurs_(TV_series),daily,2021062000,mobile-app,user,57,2021-06-20,Dinosaurs
+en.wikipedia,The_Edison_Twins,daily,2021061400,mobile-web,user,11,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061500,mobile-web,user,20,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061600,mobile-web,user,15,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061700,mobile-web,user,17,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061800,mobile-web,user,30,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061900,mobile-web,user,27,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021062000,mobile-web,user,19,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061400,desktop,user,21,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061500,desktop,user,9,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061600,desktop,user,16,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061700,desktop,user,12,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061800,desktop,user,8,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061900,desktop,user,16,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021062000,desktop,user,11,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061400,mobile-app,user,0,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061500,mobile-app,user,0,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061600,mobile-app,user,0,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061700,mobile-app,user,3,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061800,mobile-app,user,1,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021061900,mobile-app,user,0,2021-06-20,The Edison Twins
+en.wikipedia,The_Edison_Twins,daily,2021062000,mobile-app,user,0,2021-06-20,The Edison Twins
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061400,mobile-web,user,97,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061500,mobile-web,user,114,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061600,mobile-web,user,105,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061700,mobile-web,user,86,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061800,mobile-web,user,89,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061900,mobile-web,user,123,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021062000,mobile-web,user,79,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061400,desktop,user,77,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061500,desktop,user,61,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061600,desktop,user,72,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061700,desktop,user,55,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061800,desktop,user,64,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061900,desktop,user,63,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021062000,desktop,user,56,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061400,mobile-app,user,5,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061500,mobile-app,user,0,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061600,mobile-app,user,1,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061700,mobile-app,user,4,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061800,mobile-app,user,5,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021061900,mobile-app,user,1,2021-06-20,Evermoor
+en.wikipedia,The_Evermoor_Chronicles,daily,2021062000,mobile-app,user,3,2021-06-20,Evermoor
+en.wikipedia,Growing_Pains,daily,2021061400,mobile-web,user,1186,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061500,mobile-web,user,740,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061600,mobile-web,user,829,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061700,mobile-web,user,889,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061800,mobile-web,user,838,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061900,mobile-web,user,871,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021062000,mobile-web,user,949,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061400,desktop,user,419,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061500,desktop,user,298,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061600,desktop,user,383,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061700,desktop,user,436,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061800,desktop,user,469,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061900,desktop,user,323,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021062000,desktop,user,231,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061400,mobile-app,user,45,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061500,mobile-app,user,45,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061600,mobile-app,user,32,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061700,mobile-app,user,45,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061800,mobile-app,user,35,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021061900,mobile-app,user,52,2021-06-20,Growing Pains
+en.wikipedia,Growing_Pains,daily,2021062000,mobile-app,user,45,2021-06-20,Growing Pains
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061400,mobile-web,user,4738,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061500,mobile-web,user,4232,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061600,mobile-web,user,4052,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061700,mobile-web,user,4082,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061800,mobile-web,user,6578,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061900,mobile-web,user,6231,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021062000,mobile-web,user,5632,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061400,desktop,user,2475,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061500,desktop,user,2194,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061600,desktop,user,2156,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061700,desktop,user,2101,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061800,desktop,user,3529,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061900,desktop,user,2784,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021062000,desktop,user,2348,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061400,mobile-app,user,118,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061500,mobile-app,user,112,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061600,mobile-app,user,132,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061700,mobile-app,user,107,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061800,mobile-app,user,223,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021061900,mobile-app,user,213,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,High_School_Musical:_The_Musical:_The_Series,daily,2021062000,mobile-app,user,193,2021-06-20,High School Musical: The Musical: The Series
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061400,mobile-web,user,123,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061500,mobile-web,user,78,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061600,mobile-web,user,91,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061700,mobile-web,user,75,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061800,mobile-web,user,69,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061900,mobile-web,user,86,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021062000,mobile-web,user,88,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061400,desktop,user,69,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061500,desktop,user,48,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061600,desktop,user,48,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061700,desktop,user,53,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061800,desktop,user,39,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061900,desktop,user,54,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021062000,desktop,user,48,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061400,mobile-app,user,5,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061500,mobile-app,user,2,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061600,mobile-app,user,6,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061700,mobile-app,user,0,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061800,mobile-app,user,5,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021061900,mobile-app,user,1,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Honey,_I_Shrunk_the_Kids:_The_TV_Show",daily,2021062000,mobile-app,user,6,2021-06-20,"Honey, I Shrunk the Kids: The TV Show"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061400,mobile-web,user,17,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061500,mobile-web,user,17,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061600,mobile-web,user,26,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061700,mobile-web,user,18,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061800,mobile-web,user,14,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061900,mobile-web,user,25,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021062000,mobile-web,user,30,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061400,desktop,user,16,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061500,desktop,user,17,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061600,desktop,user,14,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061700,desktop,user,25,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061800,desktop,user,23,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061900,desktop,user,28,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021062000,desktop,user,17,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061400,mobile-app,user,1,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061500,mobile-app,user,3,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061600,mobile-app,user,1,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061700,mobile-app,user,0,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061800,mobile-app,user,0,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021061900,mobile-app,user,1,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,"Wake,_Rattle,_and_Roll",daily,2021062000,mobile-app,user,2,2021-06-20,"Jump, Rattle and Roll"
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061400,mobile-web,user,146,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061500,mobile-web,user,114,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061600,mobile-web,user,112,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061700,mobile-web,user,88,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061800,mobile-web,user,90,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061900,mobile-web,user,92,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021062000,mobile-web,user,113,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061400,desktop,user,50,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061500,desktop,user,60,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061600,desktop,user,58,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061700,desktop,user,39,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061800,desktop,user,28,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061900,desktop,user,31,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021062000,desktop,user,51,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061400,mobile-app,user,9,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061500,mobile-app,user,4,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061600,mobile-app,user,3,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061700,mobile-app,user,6,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061800,mobile-app,user,1,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021061900,mobile-app,user,5,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,The_Kids_of_Degrassi_Street,daily,2021062000,mobile-app,user,5,2021-06-20,The Kids of Degrassi Street
+en.wikipedia,Life_with_Derek,daily,2021061400,mobile-web,user,280,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061500,mobile-web,user,254,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061600,mobile-web,user,213,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061700,mobile-web,user,290,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061800,mobile-web,user,258,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061900,mobile-web,user,274,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021062000,mobile-web,user,217,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061400,desktop,user,114,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061500,desktop,user,127,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061600,desktop,user,104,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061700,desktop,user,91,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061800,desktop,user,133,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061900,desktop,user,89,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021062000,desktop,user,67,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061400,mobile-app,user,3,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061500,mobile-app,user,4,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061600,mobile-app,user,3,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061700,mobile-app,user,6,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061800,mobile-app,user,9,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021061900,mobile-app,user,7,2021-06-20,Life with Derek
+en.wikipedia,Life_with_Derek,daily,2021062000,mobile-app,user,5,2021-06-20,Life with Derek
+en.wikipedia,Muppets_Tonight,daily,2021061400,mobile-web,user,64,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061500,mobile-web,user,65,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061600,mobile-web,user,63,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061700,mobile-web,user,64,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061800,mobile-web,user,57,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061900,mobile-web,user,81,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021062000,mobile-web,user,77,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061400,desktop,user,55,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061500,desktop,user,50,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061600,desktop,user,42,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061700,desktop,user,45,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061800,desktop,user,52,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061900,desktop,user,41,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021062000,desktop,user,56,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061400,mobile-app,user,1,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061500,mobile-app,user,0,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061600,mobile-app,user,3,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061700,mobile-app,user,2,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061800,mobile-app,user,3,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021061900,mobile-app,user,5,2021-06-20,Muppets Tonight
+en.wikipedia,Muppets_Tonight,daily,2021062000,mobile-app,user,13,2021-06-20,Muppets Tonight
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061400,mobile-web,user,162,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061500,mobile-web,user,181,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061600,mobile-web,user,178,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061700,mobile-web,user,168,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061800,mobile-web,user,225,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061900,mobile-web,user,242,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021062000,mobile-web,user,211,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061400,desktop,user,108,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061500,desktop,user,66,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061600,desktop,user,106,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061700,desktop,user,46,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061800,desktop,user,68,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061900,desktop,user,63,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021062000,desktop,user,70,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061400,mobile-app,user,0,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061500,mobile-app,user,1,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061600,mobile-app,user,1,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061700,mobile-app,user,6,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061800,mobile-app,user,0,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021061900,mobile-app,user,0,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,My_Babysitter's_a_Vampire_(TV_series),daily,2021062000,mobile-app,user,5,2021-06-20,My Babysitter's a Vampire
+en.wikipedia,"Naturally,_Sadie",daily,2021061400,mobile-web,user,49,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061500,mobile-web,user,60,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061600,mobile-web,user,80,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061700,mobile-web,user,73,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061800,mobile-web,user,57,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061900,mobile-web,user,44,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021062000,mobile-web,user,52,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061400,desktop,user,19,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061500,desktop,user,28,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061600,desktop,user,25,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061700,desktop,user,36,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061800,desktop,user,37,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061900,desktop,user,30,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021062000,desktop,user,32,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061400,mobile-app,user,1,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061500,mobile-app,user,1,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061600,mobile-app,user,0,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061700,mobile-app,user,0,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061800,mobile-app,user,0,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021061900,mobile-app,user,1,2021-06-20,"Naturally, Sadie"
+en.wikipedia,"Naturally,_Sadie",daily,2021062000,mobile-app,user,0,2021-06-20,"Naturally, Sadie"
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061400,mobile-web,user,143,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061500,mobile-web,user,158,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061600,mobile-web,user,114,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061700,mobile-web,user,95,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061800,mobile-web,user,132,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061900,mobile-web,user,131,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021062000,mobile-web,user,175,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061400,desktop,user,93,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061500,desktop,user,77,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061600,desktop,user,46,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061700,desktop,user,57,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061800,desktop,user,54,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061900,desktop,user,40,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021062000,desktop,user,55,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061400,mobile-app,user,6,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061500,mobile-app,user,4,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061600,mobile-app,user,6,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061700,mobile-app,user,5,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061800,mobile-app,user,2,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021061900,mobile-app,user,3,2021-06-20,The Neighbors
+en.wikipedia,The_Neighbors_(2012_TV_series),daily,2021062000,mobile-app,user,6,2021-06-20,The Neighbors
+en.wikipedia,The_Sinbad_Show,daily,2021061400,mobile-web,user,33,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061500,mobile-web,user,37,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061600,mobile-web,user,46,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061700,mobile-web,user,32,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061800,mobile-web,user,32,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061900,mobile-web,user,39,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021062000,mobile-web,user,37,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061400,desktop,user,18,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061500,desktop,user,19,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061600,desktop,user,12,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061700,desktop,user,16,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061800,desktop,user,22,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061900,desktop,user,15,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021062000,desktop,user,14,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061400,mobile-app,user,0,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061500,mobile-app,user,2,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061600,mobile-app,user,0,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061700,mobile-app,user,4,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061800,mobile-app,user,2,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021061900,mobile-app,user,2,2021-06-20,The Sinbad Show
+en.wikipedia,The_Sinbad_Show,daily,2021062000,mobile-app,user,0,2021-06-20,The Sinbad Show
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061400,mobile-web,user,674,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061500,mobile-web,user,676,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061600,mobile-web,user,685,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061700,mobile-web,user,666,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061800,mobile-web,user,680,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061900,mobile-web,user,692,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021062000,mobile-web,user,690,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061400,desktop,user,270,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061500,desktop,user,251,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061600,desktop,user,233,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061700,desktop,user,266,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061800,desktop,user,242,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061900,desktop,user,218,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021062000,desktop,user,193,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061400,mobile-app,user,42,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061500,mobile-app,user,41,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061600,mobile-app,user,30,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061700,mobile-app,user,39,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061800,mobile-app,user,23,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021061900,mobile-app,user,40,2021-06-20,"Sister, Sister"
+en.wikipedia,"Sister,_Sister_(TV_series)",daily,2021062000,mobile-app,user,26,2021-06-20,"Sister, Sister"
+en.wikipedia,Smart_Guy,daily,2021061400,mobile-web,user,220,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061500,mobile-web,user,189,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061600,mobile-web,user,203,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061700,mobile-web,user,384,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061800,mobile-web,user,448,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061900,mobile-web,user,251,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021062000,mobile-web,user,260,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061400,desktop,user,119,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061500,desktop,user,89,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061600,desktop,user,86,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061700,desktop,user,131,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061800,desktop,user,112,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061900,desktop,user,73,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021062000,desktop,user,90,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061400,mobile-app,user,10,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061500,mobile-app,user,7,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061600,mobile-app,user,12,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061700,mobile-app,user,19,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061800,mobile-app,user,19,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021061900,mobile-app,user,11,2021-06-20,Smart Guy
+en.wikipedia,Smart_Guy,daily,2021062000,mobile-app,user,16,2021-06-20,Smart Guy
+en.wikipedia,The_Torkelsons,daily,2021061400,mobile-web,user,115,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061500,mobile-web,user,74,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061600,mobile-web,user,86,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061700,mobile-web,user,93,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061800,mobile-web,user,81,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061900,mobile-web,user,107,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021062000,mobile-web,user,105,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061400,desktop,user,46,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061500,desktop,user,43,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061600,desktop,user,31,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061700,desktop,user,41,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061800,desktop,user,38,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061900,desktop,user,36,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021062000,desktop,user,37,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061400,mobile-app,user,13,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061500,mobile-app,user,7,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061600,mobile-app,user,2,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061700,mobile-app,user,4,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061800,mobile-app,user,3,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021061900,mobile-app,user,2,2021-06-20,The Torkelsons/Almost Home
+en.wikipedia,The_Torkelsons,daily,2021062000,mobile-app,user,6,2021-06-20,The Torkelsons/Almost Home
